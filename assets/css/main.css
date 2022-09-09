@@ -2207,6 +2207,7 @@ input, select, textarea {
 					margin-left: 0;
 				}
 
+				
 /* Main */
 
 	#main {
@@ -2223,7 +2224,6 @@ input, select, textarea {
 		}
 
 		#main ul, #main li {
-			margin: 0; padding: 0;
 			text-align: left;
 		}
 
